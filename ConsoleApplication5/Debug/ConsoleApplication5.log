@@ -1,0 +1,4 @@
+﻿  snek_ai.c
+C:\Users\chae2\Desktop\SNEK PROJECT\SNEK_Windows_VC_version\ConsoleApplication5\snek_ai.c(410,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\chae2\Desktop\SNEK PROJECT\SNEK_Windows_VC_version\ConsoleApplication5\snek_ai.c(638): warning C4172: returning address of local variable or temporary: Moogle_Coor
+  ConsoleApplication5.vcxproj -> C:\Users\chae2\Desktop\SNEK PROJECT\SNEK_Windows_VC_version\Debug\ConsoleApplication5.exe

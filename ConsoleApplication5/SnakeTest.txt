@@ -1,0 +1,793 @@
+|===== GAME NUMBER: 1 =====|
+FINAL SCORE: 1554
+MOOGLES EATEN: 48
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 2 =====|
+FINAL SCORE: 2059
+MOOGLES EATEN: 59
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 3 =====|
+FINAL SCORE: 851
+MOOGLES EATEN: 30
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 4 =====|
+FINAL SCORE: 1800
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 5 =====|
+FINAL SCORE: 1512
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 6 =====|
+FINAL SCORE: 1678
+MOOGLES EATEN: 51
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 7 =====|
+FINAL SCORE: 1934
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 8 =====|
+FINAL SCORE: 1709
+MOOGLES EATEN: 54
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 9 =====|
+FINAL SCORE: 2488
+MOOGLES EATEN: 70
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 10 =====|
+FINAL SCORE: 2173
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 11 =====|
+FINAL SCORE: 1317
+MOOGLES EATEN: 42
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 12 =====|
+FINAL SCORE: 1558
+MOOGLES EATEN: 51
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 13 =====|
+FINAL SCORE: 979
+MOOGLES EATEN: 30
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 14 =====|
+FINAL SCORE: 1430
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 15 =====|
+FINAL SCORE: 2160
+MOOGLES EATEN: 66
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 16 =====|
+FINAL SCORE: 1356
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 17 =====|
+FINAL SCORE: 590
+MOOGLES EATEN: 19
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 18 =====|
+FINAL SCORE: 874
+MOOGLES EATEN: 29
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 19 =====|
+FINAL SCORE: 471
+MOOGLES EATEN: 15
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 20 =====|
+FINAL SCORE: 826
+MOOGLES EATEN: 26
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 21 =====|
+FINAL SCORE: 1829
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 22 =====|
+FINAL SCORE: 706
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 23 =====|
+FINAL SCORE: 1322
+MOOGLES EATEN: 45
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 24 =====|
+FINAL SCORE: 2300
+MOOGLES EATEN: 69
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 25 =====|
+FINAL SCORE: 1991
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 26 =====|
+FINAL SCORE: 1523
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 27 =====|
+FINAL SCORE: 2589
+MOOGLES EATEN: 72
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 28 =====|
+FINAL SCORE: 1542
+MOOGLES EATEN: 51
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 29 =====|
+FINAL SCORE: 1305
+MOOGLES EATEN: 40
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 30 =====|
+FINAL SCORE: 2168
+MOOGLES EATEN: 64
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 31 =====|
+FINAL SCORE: 722
+MOOGLES EATEN: 24
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 32 =====|
+FINAL SCORE: 1806
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 33 =====|
+FINAL SCORE: 1837
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 34 =====|
+FINAL SCORE: 1509
+MOOGLES EATEN: 51
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 35 =====|
+FINAL SCORE: 837
+MOOGLES EATEN: 26
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 36 =====|
+FINAL SCORE: 1951
+MOOGLES EATEN: 57
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 37 =====|
+FINAL SCORE: 2272
+MOOGLES EATEN: 69
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 38 =====|
+FINAL SCORE: 1911
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 39 =====|
+FINAL SCORE: 2030
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 40 =====|
+FINAL SCORE: 1846
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 41 =====|
+FINAL SCORE: 1952
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 42 =====|
+FINAL SCORE: 1955
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 43 =====|
+FINAL SCORE: 1858
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 44 =====|
+FINAL SCORE: 1770
+MOOGLES EATEN: 52
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 45 =====|
+FINAL SCORE: 2132
+MOOGLES EATEN: 62
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 46 =====|
+FINAL SCORE: 2260
+MOOGLES EATEN: 67
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 47 =====|
+FINAL SCORE: 1188
+MOOGLES EATEN: 41
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 48 =====|
+FINAL SCORE: 705
+MOOGLES EATEN: 23
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 49 =====|
+FINAL SCORE: 1705
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 50 =====|
+FINAL SCORE: 1968
+MOOGLES EATEN: 61
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 51 =====|
+FINAL SCORE: 1594
+MOOGLES EATEN: 52
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 52 =====|
+FINAL SCORE: 1274
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 53 =====|
+FINAL SCORE: 1663
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 54 =====|
+FINAL SCORE: 1807
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 55 =====|
+FINAL SCORE: 731
+MOOGLES EATEN: 23
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 56 =====|
+FINAL SCORE: 1056
+MOOGLES EATEN: 37
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 57 =====|
+FINAL SCORE: 2267
+MOOGLES EATEN: 64
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 58 =====|
+FINAL SCORE: 2032
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 59 =====|
+FINAL SCORE: 1305
+MOOGLES EATEN: 41
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 60 =====|
+FINAL SCORE: 969
+MOOGLES EATEN: 33
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 61 =====|
+FINAL SCORE: 635
+MOOGLES EATEN: 23
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 62 =====|
+FINAL SCORE: 1782
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 63 =====|
+FINAL SCORE: 1448
+MOOGLES EATEN: 49
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 64 =====|
+FINAL SCORE: 801
+MOOGLES EATEN: 26
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 65 =====|
+FINAL SCORE: 1407
+MOOGLES EATEN: 46
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 66 =====|
+FINAL SCORE: 2292
+MOOGLES EATEN: 69
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 67 =====|
+FINAL SCORE: 1255
+MOOGLES EATEN: 40
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 68 =====|
+FINAL SCORE: 1533
+MOOGLES EATEN: 50
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 69 =====|
+FINAL SCORE: 1103
+MOOGLES EATEN: 34
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 70 =====|
+FINAL SCORE: 2308
+MOOGLES EATEN: 66
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 71 =====|
+FINAL SCORE: 1486
+MOOGLES EATEN: 51
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 72 =====|
+FINAL SCORE: 2447
+MOOGLES EATEN: 69
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 73 =====|
+FINAL SCORE: 2111
+MOOGLES EATEN: 64
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 74 =====|
+FINAL SCORE: 1867
+MOOGLES EATEN: 57
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 75 =====|
+FINAL SCORE: 1354
+MOOGLES EATEN: 42
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 76 =====|
+FINAL SCORE: 1175
+MOOGLES EATEN: 39
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 77 =====|
+FINAL SCORE: 1823
+MOOGLES EATEN: 57
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 78 =====|
+FINAL SCORE: 2124
+MOOGLES EATEN: 67
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 79 =====|
+FINAL SCORE: 1934
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 80 =====|
+FINAL SCORE: 1198
+MOOGLES EATEN: 38
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 81 =====|
+FINAL SCORE: 2095
+MOOGLES EATEN: 62
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 82 =====|
+FINAL SCORE: 844
+MOOGLES EATEN: 29
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 83 =====|
+FINAL SCORE: 812
+MOOGLES EATEN: 27
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 84 =====|
+FINAL SCORE: 1521
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 85 =====|
+FINAL SCORE: 2230
+MOOGLES EATEN: 70
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 86 =====|
+FINAL SCORE: 1253
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 87 =====|
+FINAL SCORE: 1968
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 88 =====|
+FINAL SCORE: 1422
+MOOGLES EATEN: 45
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 89 =====|
+FINAL SCORE: 2159
+MOOGLES EATEN: 65
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 90 =====|
+FINAL SCORE: 1550
+MOOGLES EATEN: 49
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 91 =====|
+FINAL SCORE: 1057
+MOOGLES EATEN: 37
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 92 =====|
+FINAL SCORE: 997
+MOOGLES EATEN: 33
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 93 =====|
+FINAL SCORE: 1337
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 94 =====|
+FINAL SCORE: 2110
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 95 =====|
+FINAL SCORE: 1103
+MOOGLES EATEN: 35
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 96 =====|
+FINAL SCORE: 2336
+MOOGLES EATEN: 68
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 97 =====|
+FINAL SCORE: 739
+MOOGLES EATEN: 23
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 98 =====|
+FINAL SCORE: 1933
+MOOGLES EATEN: 59
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 99 =====|
+FINAL SCORE: 1515
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 100 =====|
+FINAL SCORE: 626
+MOOGLES EATEN: 20
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 101 =====|
+FINAL SCORE: 1199
+MOOGLES EATEN: 39
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 102 =====|
+FINAL SCORE: 1855
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 103 =====|
+FINAL SCORE: 1379
+MOOGLES EATEN: 44
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 104 =====|
+FINAL SCORE: 2083
+MOOGLES EATEN: 59
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 105 =====|
+FINAL SCORE: 1940
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 106 =====|
+FINAL SCORE: 1085
+MOOGLES EATEN: 34
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 107 =====|
+FINAL SCORE: 1177
+MOOGLES EATEN: 40
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 108 =====|
+FINAL SCORE: 683
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 109 =====|
+FINAL SCORE: 1184
+MOOGLES EATEN: 39
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 110 =====|
+FINAL SCORE: 2223
+MOOGLES EATEN: 64
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 111 =====|
+FINAL SCORE: 1206
+MOOGLES EATEN: 39
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 112 =====|
+FINAL SCORE: 1907
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 113 =====|
+FINAL SCORE: 400
+MOOGLES EATEN: 13
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 114 =====|
+FINAL SCORE: 1753
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 115 =====|
+FINAL SCORE: 696
+MOOGLES EATEN: 22
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 116 =====|
+FINAL SCORE: 1447
+MOOGLES EATEN: 45
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 117 =====|
+FINAL SCORE: 2108
+MOOGLES EATEN: 64
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 118 =====|
+FINAL SCORE: 1415
+MOOGLES EATEN: 46
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 119 =====|
+FINAL SCORE: 1424
+MOOGLES EATEN: 45
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 120 =====|
+FINAL SCORE: 2629
+MOOGLES EATEN: 73
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 121 =====|
+FINAL SCORE: 1597
+MOOGLES EATEN: 52
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 122 =====|
+FINAL SCORE: 1358
+MOOGLES EATEN: 45
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 123 =====|
+FINAL SCORE: 831
+MOOGLES EATEN: 26
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 124 =====|
+FINAL SCORE: 740
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 125 =====|
+FINAL SCORE: 1653
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 126 =====|
+FINAL SCORE: 1578
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 127 =====|
+FINAL SCORE: 1620
+MOOGLES EATEN: 50
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 128 =====|
+FINAL SCORE: 2289
+MOOGLES EATEN: 65
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 129 =====|
+FINAL SCORE: 1426
+MOOGLES EATEN: 47
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 130 =====|
+FINAL SCORE: 862
+MOOGLES EATEN: 29
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 131 =====|
+FINAL SCORE: 2376
+MOOGLES EATEN: 68
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 132 =====|
+FINAL SCORE: 1573
+MOOGLES EATEN: 46
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 133 =====|
+FINAL SCORE: 607
+MOOGLES EATEN: 20
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 134 =====|
+FINAL SCORE: 1686
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 135 =====|
+FINAL SCORE: 1957
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 136 =====|
+FINAL SCORE: 1566
+MOOGLES EATEN: 48
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 137 =====|
+FINAL SCORE: 1917
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 138 =====|
+FINAL SCORE: 1779
+MOOGLES EATEN: 53
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 139 =====|
+FINAL SCORE: 588
+MOOGLES EATEN: 21
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 140 =====|
+FINAL SCORE: 713
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 141 =====|
+FINAL SCORE: 2044
+MOOGLES EATEN: 61
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 142 =====|
+FINAL SCORE: 1967
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 143 =====|
+FINAL SCORE: 1470
+MOOGLES EATEN: 49
+GAME OVER REASON: The snake hit a wall
+|===== GAME NUMBER: 144 =====|
+FINAL SCORE: 2090
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 145 =====|
+FINAL SCORE: 821
+MOOGLES EATEN: 28
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 146 =====|
+FINAL SCORE: 808
+MOOGLES EATEN: 27
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 147 =====|
+FINAL SCORE: 1826
+MOOGLES EATEN: 54
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 148 =====|
+FINAL SCORE: 1654
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 149 =====|
+FINAL SCORE: 1950
+MOOGLES EATEN: 61
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 150 =====|
+FINAL SCORE: 1327
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 151 =====|
+FINAL SCORE: 1862
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 152 =====|
+FINAL SCORE: 2218
+MOOGLES EATEN: 62
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 153 =====|
+FINAL SCORE: 1044
+MOOGLES EATEN: 35
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 154 =====|
+FINAL SCORE: 1888
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 155 =====|
+FINAL SCORE: 728
+MOOGLES EATEN: 23
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 156 =====|
+FINAL SCORE: 981
+MOOGLES EATEN: 31
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 157 =====|
+FINAL SCORE: 1982
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 158 =====|
+FINAL SCORE: 2644
+MOOGLES EATEN: 75
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 159 =====|
+FINAL SCORE: 2022
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 160 =====|
+FINAL SCORE: 762
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 161 =====|
+FINAL SCORE: 1544
+MOOGLES EATEN: 49
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 162 =====|
+FINAL SCORE: 2310
+MOOGLES EATEN: 68
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 163 =====|
+FINAL SCORE: 2827
+MOOGLES EATEN: 77
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 164 =====|
+FINAL SCORE: 1194
+MOOGLES EATEN: 38
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 165 =====|
+FINAL SCORE: 1727
+MOOGLES EATEN: 57
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 166 =====|
+FINAL SCORE: 1967
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 167 =====|
+FINAL SCORE: 2275
+MOOGLES EATEN: 66
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 168 =====|
+FINAL SCORE: 973
+MOOGLES EATEN: 32
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 169 =====|
+FINAL SCORE: 1915
+MOOGLES EATEN: 55
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 170 =====|
+FINAL SCORE: 1604
+MOOGLES EATEN: 50
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 171 =====|
+FINAL SCORE: 1822
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 172 =====|
+FINAL SCORE: 2075
+MOOGLES EATEN: 59
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 173 =====|
+FINAL SCORE: 1845
+MOOGLES EATEN: 60
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 174 =====|
+FINAL SCORE: 1168
+MOOGLES EATEN: 39
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 175 =====|
+FINAL SCORE: 1384
+MOOGLES EATEN: 44
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 176 =====|
+FINAL SCORE: 703
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 177 =====|
+FINAL SCORE: 854
+MOOGLES EATEN: 30
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 178 =====|
+FINAL SCORE: 1018
+MOOGLES EATEN: 34
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 179 =====|
+FINAL SCORE: 769
+MOOGLES EATEN: 27
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 180 =====|
+FINAL SCORE: 1790
+MOOGLES EATEN: 59
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 181 =====|
+FINAL SCORE: 2278
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 182 =====|
+FINAL SCORE: 834
+MOOGLES EATEN: 27
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 183 =====|
+FINAL SCORE: 2391
+MOOGLES EATEN: 68
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 184 =====|
+FINAL SCORE: 250
+MOOGLES EATEN: 7
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 185 =====|
+FINAL SCORE: 250
+MOOGLES EATEN: 7
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 186 =====|
+FINAL SCORE: 797
+MOOGLES EATEN: 26
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 187 =====|
+FINAL SCORE: 686
+MOOGLES EATEN: 22
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 188 =====|
+FINAL SCORE: 1374
+MOOGLES EATEN: 41
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 189 =====|
+FINAL SCORE: 774
+MOOGLES EATEN: 25
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 190 =====|
+FINAL SCORE: 1330
+MOOGLES EATEN: 43
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 191 =====|
+FINAL SCORE: 2255
+MOOGLES EATEN: 65
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 192 =====|
+FINAL SCORE: 977
+MOOGLES EATEN: 33
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 193 =====|
+FINAL SCORE: 1984
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 194 =====|
+FINAL SCORE: 1896
+MOOGLES EATEN: 56
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 195 =====|
+FINAL SCORE: 2179
+MOOGLES EATEN: 63
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 196 =====|
+FINAL SCORE: 2189
+MOOGLES EATEN: 69
+GAME OVER REASON: The snake hit itself
+|===== GAME NUMBER: 197 =====|
+FINAL SCORE: 2056
+MOOGLES EATEN: 58
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 198 =====|
+FINAL SCORE: 952
+MOOGLES EATEN: 32
+GAME OVER REASON: The snake ran out of time
+|===== GAME NUMBER: 199 =====|

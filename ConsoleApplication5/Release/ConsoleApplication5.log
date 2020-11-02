@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\main.c(151,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1274): message : see declaration of '_sleep'
+  snek_ai.c
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\snek_ai.c(543,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\snek_ai.c(645,6): warning C4101: 'Moogle_Coor': unreferenced local variable
+  snek_api.c
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\snek_api.c(11,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\snek_api.c(15,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+C:\Users\chae2\Desktop\Snake Final\ConsoleApplication5\snek_ai.c(460): warning C4715: 'advance_frame_copy': not all control paths return a value
+  17 of 30 functions (56.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication5.vcxproj -> C:\Users\chae2\Desktop\Snake Final\Release\ConsoleApplication5.exe
